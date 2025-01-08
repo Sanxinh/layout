@@ -10,8 +10,10 @@ div:hover{
     background-color: #5BC241;
     padding: 10px;
 }
+
 div {
     padding: 10px;
+    transition: 0.3s ease-in-out;
 }
 
 
