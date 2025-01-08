@@ -1,0 +1,43 @@
+header {
+    font-family: Public Sans;
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+
+div:hover{
+    background-color: #5BC241;
+    padding: 10px;
+}
+div {
+    padding: 10px;
+}
+
+
+.titulo-cabecalho {
+    font-size: 20px;
+    font-weight: 800;
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho {
+    font-size: 15px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+}
+
+.cabecalho-2 {
+    display: flex;
+    gap: 10px;
+}
+
+.botao-cadastro {
+    background-color: #5BC241;
+    border-radius: 10px;
+    border: transparent;
+    padding: 15px;
+    color: #fff;
+}
